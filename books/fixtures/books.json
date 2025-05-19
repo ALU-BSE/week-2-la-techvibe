@@ -1,0 +1,452 @@
+[
+    {
+        "model": "books.book",
+        "pk": 1,
+        "fields": {
+            "title": "Whispers of the Wind",
+            "author": "Lara Whitmore",
+            "published_year": 2005
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 2,
+        "fields": {
+            "title": "The Clockmaker's Legacy",
+            "author": "Henry Drayton",
+            "published_year": 1998
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 3,
+        "fields": {
+            "title": "Beneath the Crimson Sky",
+            "author": "Elena Vasquez",
+            "published_year": 2012
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 4,
+        "fields": {
+            "title": "Voices in the Fog",
+            "author": "Mitchell Keane",
+            "published_year": 2017
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 5,
+        "fields": {
+            "title": "The Alchemist's Puzzle",
+            "author": "Isadora Finch",
+            "published_year": 2003
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 6,
+        "fields": {
+            "title": "Shadows of the Tundra",
+            "author": "Gavin Rowe",
+            "published_year": 2014
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 7,
+        "fields": {
+            "title": "Forgotten Isles",
+            "author": "Cynthia Marsh",
+            "published_year": 1995
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 8,
+        "fields": {
+            "title": "The Midnight Manuscript",
+            "author": "Trevor Langston",
+            "published_year": 2020
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 9,
+        "fields": {
+            "title": "Echoes of a Distant Star",
+            "author": "Melanie K. Holt",
+            "published_year": 2011
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 10,
+        "fields": {
+            "title": "Glass Gardens",
+            "author": "Raymond Cho",
+            "published_year": 2008
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 11,
+        "fields": {
+            "title": "Harvest of Bones",
+            "author": "Delia Armstrong",
+            "published_year": 1999
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 12,
+        "fields": {
+            "title": "Path of the Serpent",
+            "author": "Andre Silva",
+            "published_year": 2007
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 13,
+        "fields": {
+            "title": "Rain on Ember Hill",
+            "author": "Talia Grayson",
+            "published_year": 2015
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 14,
+        "fields": {
+            "title": "The Paper Kingdom",
+            "author": "Kendrick Boone",
+            "published_year": 2000
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 15,
+        "fields": {
+            "title": "Ashes and Embers",
+            "author": "Sophia Lang",
+            "published_year": 2006
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 16,
+        "fields": {
+            "title": "Driftwood Dreams",
+            "author": "Harold Bishop",
+            "published_year": 2002
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 17,
+        "fields": {
+            "title": "Moonlight and Thorns",
+            "author": "Jasmine Patel",
+            "published_year": 2018
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 18,
+        "fields": {
+            "title": "The Iron Compass",
+            "author": "Caleb Finch",
+            "published_year": 1996
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 19,
+        "fields": {
+            "title": "Frozen Relics",
+            "author": "Diane McBride",
+            "published_year": 2010
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 20,
+        "fields": {
+            "title": "Vault of Whispers",
+            "author": "Leo Yamamoto",
+            "published_year": 2021
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 21,
+        "fields": {
+            "title": "A Sea of Lanterns",
+            "author": "Mina Delgado",
+            "published_year": 2013
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 22,
+        "fields": {
+            "title": "Chronicles of Hollow Ridge",
+            "author": "Victor Hayes",
+            "published_year": 1997
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 23,
+        "fields": {
+            "title": "Bitterwood",
+            "author": "Nina Voss",
+            "published_year": 2001
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 24,
+        "fields": {
+            "title": "Dust and Echoes",
+            "author": "Carla Monroe",
+            "published_year": 2009
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 25,
+        "fields": {
+            "title": "The Hidden Letter",
+            "author": "Samuel Hargrove",
+            "published_year": 2004
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 26,
+        "fields": {
+            "title": "Skylines of Tomorrow",
+            "author": "Felix Durant",
+            "published_year": 2022
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 27,
+        "fields": {
+            "title": "Letters to the Moon",
+            "author": "Ivy Lennox",
+            "published_year": 2019
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 28,
+        "fields": {
+            "title": "Wolves at the Gate",
+            "author": "Tomás Alvarez",
+            "published_year": 2006
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 29,
+        "fields": {
+            "title": "Lanterns in the Mist",
+            "author": "Grace Yoon",
+            "published_year": 2016
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 30,
+        "fields": {
+            "title": "The Crimson Ledger",
+            "author": "Derek L. Pratt",
+            "published_year": 2010
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 31,
+        "fields": {
+            "title": "Snowfall and Secrets",
+            "author": "Natalie Cross",
+            "published_year": 2003
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 32,
+        "fields": {
+            "title": "The Marble Oracle",
+            "author": "Sebastian Trent",
+            "published_year": 2014
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 33,
+        "fields": {
+            "title": "Echo Lake",
+            "author": "Angela Reid",
+            "published_year": 1994
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 34,
+        "fields": {
+            "title": "Roots of the Empire",
+            "author": "Marcus Blake",
+            "published_year": 2011
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 35,
+        "fields": {
+            "title": "Serpent's Passage",
+            "author": "Ismail Darzi",
+            "published_year": 2007
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 36,
+        "fields": {
+            "title": "The Last Cartographer",
+            "author": "Clara Gentry",
+            "published_year": 2005
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 37,
+        "fields": {
+            "title": "Voices from the Valley",
+            "author": "Rachel Summers",
+            "published_year": 2012
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 38,
+        "fields": {
+            "title": "The Seventh Sun",
+            "author": "Omar Delgado",
+            "published_year": 2017
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 39,
+        "fields": {
+            "title": "Shifting Tides",
+            "author": "Beatrice Chen",
+            "published_year": 2008
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 40,
+        "fields": {
+            "title": "Citadel of Mirrors",
+            "author": "Darius Wynn",
+            "published_year": 2013
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 41,
+        "fields": {
+            "title": "Fire in the Vineyard",
+            "author": "Giselle Moran",
+            "published_year": 2000
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 42,
+        "fields": {
+            "title": "Thorn & Thunder",
+            "author": "Jonas Vega",
+            "published_year": 2020
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 43,
+        "fields": {
+            "title": "The Winter Heir",
+            "author": "Alina Morozov",
+            "published_year": 2018
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 44,
+        "fields": {
+            "title": "Cathedral of Ice",
+            "author": "Edwin Price",
+            "published_year": 2009
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 45,
+        "fields": {
+            "title": "Golden Silence",
+            "author": "Yasmin Karim",
+            "published_year": 2004
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 46,
+        "fields": {
+            "title": "Beneath Silver Trees",
+            "author": "Noah Ellison",
+            "published_year": 2011
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 47,
+        "fields": {
+            "title": "The Forgotten Map",
+            "author": "Joelle Sinclair",
+            "published_year": 2006
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 48,
+        "fields": {
+            "title": "Empire of Ash",
+            "author": "Quentin Mahoney",
+            "published_year": 2015
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 49,
+        "fields": {
+            "title": "The Lantern Keeper",
+            "author": "Monica Rios",
+            "published_year": 2023
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 50,
+        "fields": {
+            "title": "Kingdom of Sand",
+            "author": "Farah Haddad",
+            "published_year": 2002
+        }
+    }
+] 
